@@ -1,0 +1,15 @@
+{
+  "title": "The Enigma Zone",
+  "url": "https://enigma.zone/",
+  "description": "Anthology Podcast",
+  "feed": {
+    "subtitle": "Horror, Science Fiction and Fantasy",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://enigma.zone/"
+  },
+  "author": {
+    "name": "Chris A Moody",
+    "email": "chris@chrisamoody.com"
+  }
+}
